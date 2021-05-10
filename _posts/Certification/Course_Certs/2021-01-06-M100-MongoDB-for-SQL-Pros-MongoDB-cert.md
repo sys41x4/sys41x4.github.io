@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-01-06 18:32:00 -0500
 categories: [Certifications, MongoDB, "MongoDB for SQL Pros"]
 tags: [Certification, Certificate, Easy, MongoDB, "MongoDB for SQL Pros", January, "2021"]
-permalink: "/certification/MongoDB/MongoDB for SQL Pros/06-01-2021"
+permalink: "/certification/MongoDB/MongoDB for SQL Pros/06-01-2021.html"
 ---
 
 [![MongoDB_for_SQL_Pros](/assets/certifications/MongoDB/M100-MongoDB-for-SQL-Pros/06.01.2021/M100_proof_of_completion_8f216bc2-12d8-4611-9ead-198909dde195.png)](https://raw.githubusercontent.com/Arijit-Bhowmick/My_Certifications/main/MongoDB/M100_proof_of_completion_8f216bc2-12d8-4611-9ead-198909dde195.png)

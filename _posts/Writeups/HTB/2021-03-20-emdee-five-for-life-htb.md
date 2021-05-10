@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-03-20 18:32:00 -0500
 categories: [HackTheBox, Challenges, Web]
 tags: [HackTheBox, Easy, "Emdee five for life", Web, Challenge, writeup, Burp, python3, python]
-permalink: "/HTB/challenge/web/Emdee five for life"
+permalink: "/HTB/challenge/web/Emdee five for life.html"
 ---
 
 [![HTB Img](/assets/htb/htb-img/htb_logo.jpeg)](http://hackthebox.eu)

@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-04-25 18:32:00 -0500
 categories: ["Participation Certificate", GUVI, "Build a Face Recognition Application using Python"]
 tags: [Certification, Certificate, Easy, GUVI, "Build a Face Recognition Application using Python", April, "2021"]
-permalink: "/certification/GUVI/Build a Face Recognition Application using Python/25-04-2021"
+permalink: "/certification/GUVI/Build a Face Recognition Application using Python/25-04-2021.html"
 ---
 
 [![GUVI_Build-a-Face-Reco-App-using-Python](/assets/certifications/GUVI/Build_a_Face_Reco_App_using_Python/25-04-2021/GuviCertification-ER1173N20d239Zv639.png)](https://raw.githubusercontent.com/Arijit-Bhowmick/My_Certifications/main/Participation_Certs/GUVI/GuviCertification%20-%20ER1173N20d239Zv639%20%5BArijit%20Bhowmick%5D.png)

@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-04-18 18:32:00 -0500
 categories: [Certifications, Certiprof, SFPC]
 tags: [Certification, Certificate, Easy, CertiProf, SFPC, April, "2021"]
-permalink: "/certification/CertiProf/SFPC/18-04-2021"
+permalink: "/certification/CertiProf/SFPC/18-04-2021.html"
 ---
 
 [![certiprof_sfpc_2021](/assets/certifications/certiprof/SFPC/18-04-2021/CertiProf_SFPC_a7c901e4-cb0e-4041-8a2e-ac91a0e6b5e0.png)](https://raw.githubusercontent.com/Arijit-Bhowmick/My_Certifications/main/CertiProf/CertiProf_SFPC_%5Ba7c901e4-cb0e-4041-8a2e-ac91a0e6b5e0%5D.pdf)

@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2020-11-16 18:32:00 -0500
 categories: [Certifications, CISCO, Introduction-to-Packet-Tracer-English-1120-cga]
 tags: [Certification, Certificate, Easy, CISCO, "Introduction to Packet Tracer", January, "2021"]
-permalink: "/certification/CISCO/Introduction_to_Packet_Tracer_English_1120_cga/07-01-2021"
+permalink: "/certification/CISCO/Introduction_to_Packet_Tracer_English_1120_cga/07-01-2021.html"
 ---
 
 [![cisco_Introduction_to_Cybersecurity_English_1120](/assets/certifications/CISCO/Introduction_to_Packet_Tracer_English_1120_cga/07-01-2021/CISCO-Introduction-to-Packet-Tracer-English-1120-cga.png)](https://raw.githubusercontent.com/Arijit-Bhowmick/My_Certifications/main/CISCO/ArijitBhowmick-Introduction%20to%20Packet%20Tracer%20English%201120%20cga-certificate.pdf)

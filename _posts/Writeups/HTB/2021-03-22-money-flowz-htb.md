@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-03-22 18:32:00 -0500
 categories: [HackTheBox, Challenges, OSINT]
 tags: [HackTheBox, Easy, "Money Flowz", OSINT, Challenge, writeup]
-permalink: "/HTB/challenge/osint/Money Flowz"
+permalink: "/HTB/challenge/osint/Money Flowz.html"
 ---
 
 [![HTB Img](/assets/htb/htb-img/htb_logo.jpeg)](http://hackthebox.eu)

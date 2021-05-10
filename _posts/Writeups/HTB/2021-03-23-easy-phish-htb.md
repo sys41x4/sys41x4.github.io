@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-03-23 18:32:00 -0500
 categories: [HackTheBox, Challenges, OSINT]
 tags: [HackTheBox, Easy, "Easy Phish", OSINT, Challenge, writeup]
-permalink: "/HTB/challenge/osint/Easy Phish"
+permalink: "/HTB/challenge/osint/Easy Phish.html"
 ---
 
 [![HTB Img](/assets/htb/htb-img/htb_logo.jpeg)](http://hackthebox.eu)

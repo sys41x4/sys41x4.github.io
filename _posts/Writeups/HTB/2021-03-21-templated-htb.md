@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-03-21 18:32:00 -0500
 categories: [HackTheBox, Challenges, Web]
 tags: [HackTheBox, Easy, templated, Web, Challenge, writeup, python3, python]
-permalink: "/HTB/challenge/web/Templated"
+permalink: "/HTB/challenge/web/Templated.html"
 ---
 
 [![HTB Img](/assets/htb/htb-img/htb_logo.jpeg)](http://hackthebox.eu)

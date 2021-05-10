@@ -4,7 +4,7 @@ author: Arijit Bhowmick [sys41x4]
 date: 2021-03-21 18:32:00 -0500
 categories: [HackTheBox, Challenges, Forensics]
 tags: [HackTheBox, Easy, Illumination, Forensics, Challenge, writeup, "git commit"]
-permalink: "/HTB/challenge/forensics/illumination"
+permalink: "/HTB/challenge/forensics/illumination.html"
 ---
 
 [![HTB Img](/assets/htb/htb-img/htb_logo.jpeg)](http://hackthebox.eu)
