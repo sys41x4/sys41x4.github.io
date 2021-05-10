@@ -1,0 +1,320 @@
+{
+  "personalInfo": {
+    "myimg": "profilePic.png",
+    "fname": "Arijit",
+    "mname": "",
+    "lname": "Bhowmick",
+    "nick": "sys41x4",
+    "address": {
+      "list": [
+        "Chakdaha, Nadia, West Bengal, India , 741222",
+        ""
+      ]
+    },
+    "infosecGitAcc": "<b><a href='https://github.com/sys41x4'>Github</a></b>",
+    "certifications": "<b><a href='#'>Certifications</a></b>",
+    "writeup": "<b><a href='#'>Infosec Writeup</a></b>",
+    "blog": "<b><a href='#'>Blogs</a></b>",
+    "email": "sys41x4@zohomail.in",
+    "mob": ""
+  },
+  "infosecBlogs": [
+    {
+      "sn": -3,
+      "projectTitle": "MUSIC PLAYER",
+      "periodStart": "January 2021",
+      "periodEnd": "February 2021",
+      "toolsUsed": [
+        "python3",
+        "Tkinter",
+        "Pygame"
+      ],
+      "tags": [
+        "python3",
+        "tkinter",
+        "mutagen",
+        "pygame"
+      ],
+      "shortInfo": "Developed a flat and modern <b>Music Player</b> using python3, and tkinter.",
+      "link": "https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"
+    }
+  ],
+  "blogs": [
+    {
+      "sn": -3,
+      "projectTitle": "MUSIC PLAYER",
+      "periodStart": "January 2021",
+      "periodEnd": "February 2021",
+      "toolsUsed": [
+        "python3",
+        "Tkinter",
+        "Pygame"
+      ],
+      "tags": [
+        "python3",
+        "tkinter",
+        "mutagen",
+        "pygame"
+      ],
+      "shortInfo": "Developed a flat and modern <b>Music Player</b> using python3, and tkinter.",
+      "link": "https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"
+    },
+    {
+      "sn": -2,
+      "projectTitle": "HOME AI",
+      "periodStart": "October 2020",
+      "periodEnd": "March 2021",
+      "toolsUsed": [
+        "python3",
+        "pyfirmata",
+        "Arduino UNO R3",
+        "Speaker",
+        "host machine",
+        "Microphone"
+      ],
+      "tags": [
+        "home automation",
+        "python3",
+        "pyfirmata",
+        "SpeechRecognition",
+        "time",
+        "PyAudio",
+        "serial"
+      ],
+      "shortInfo": "Developed a Python based <b>Home Automation</b> project.<br>Which is based on Arduino as a switching device.<br>Voice recognition, as well as vhat and global command functions are used in this project.",
+      "link": "https://github.com/Arijit-Bhowmick/HOME-AI"
+    },
+    {
+      "sn": -1,
+      "projectTitle": "WHATSAPP SPAMMER",
+      "periodStart": "April 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python3",
+        "selenium"
+      ],
+      "tags": [
+        "whatsapp",
+        "python",
+        "selenium",
+        "hashlib",
+        "gecko"
+      ],
+      "shortInfo": "Developed a Python based WhatsApp Spamming Script",
+      "link": "https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER"
+    },
+    {
+      "sn": 0,
+      "projectTitle": "PY3_SEC2020_DDOS_ATTACKER",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python",
+        "requests",
+        "threading",
+        "datetime"
+      ],
+      "tags": [
+        "python3",
+        "ddos"
+      ],
+      "shortInfo": "Programmed a DDOS Script using python3",
+      "link": "https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER"
+    }
+  ],
+  "certifications": [
+    {
+      "sn": -3,
+      "projectTitle": "MUSIC PLAYER",
+      "periodStart": "January 2021",
+      "periodEnd": "February 2021",
+      "toolsUsed": [
+        "python3",
+        "Tkinter",
+        "Pygame"
+      ],
+      "tags": [
+        "python3",
+        "tkinter",
+        "mutagen",
+        "pygame"
+      ],
+      "shortInfo": "Developed a flat and modern <b>Music Player</b> using python3, and tkinter.",
+      "link": "https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"
+    },
+    {
+      "sn": -2,
+      "projectTitle": "HOME AI",
+      "periodStart": "October 2020",
+      "periodEnd": "March 2021",
+      "toolsUsed": [
+        "python3",
+        "pyfirmata",
+        "Arduino UNO R3",
+        "Speaker",
+        "host machine",
+        "Microphone"
+      ],
+      "tags": [
+        "home automation",
+        "python3",
+        "pyfirmata",
+        "SpeechRecognition",
+        "time",
+        "PyAudio",
+        "serial"
+      ],
+      "shortInfo": "Developed a Python based <b>Home Automation</b> project.<br>Which is based on Arduino as a switching device.<br>Voice recognition, as well as vhat and global command functions are used in this project.",
+      "link": "https://github.com/Arijit-Bhowmick/HOME-AI"
+    },
+    {
+      "sn": -1,
+      "projectTitle": "WHATSAPP SPAMMER",
+      "periodStart": "April 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python3",
+        "selenium"
+      ],
+      "tags": [
+        "whatsapp",
+        "python",
+        "selenium",
+        "hashlib",
+        "gecko"
+      ],
+      "shortInfo": "Developed a Python based WhatsApp Spamming Script",
+      "link": "https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER"
+    },
+    {
+      "sn": 0,
+      "projectTitle": "PY3_SEC2020_DDOS_ATTACKER",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python",
+        "requests",
+        "threading",
+        "datetime"
+      ],
+      "tags": [
+        "python3",
+        "ddos"
+      ],
+      "shortInfo": "Programmed a DDOS Script using python3",
+      "link": "https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER"
+    }
+  ],
+  "socialRecognition": [
+    {
+      "sn": -3,
+      "projectTitle": "MUSIC PLAYER",
+      "periodStart": "January 2021",
+      "periodEnd": "February 2021",
+      "toolsUsed": [
+        "python3",
+        "Tkinter",
+        "Pygame"
+      ],
+      "tags": [
+        "python3",
+        "tkinter",
+        "mutagen",
+        "pygame"
+      ],
+      "shortInfo": "Developed a flat and modern <b>Music Player</b> using python3, and tkinter.",
+      "link": "https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"
+    },
+    {
+      "sn": -2,
+      "projectTitle": "HOME AI",
+      "periodStart": "October 2020",
+      "periodEnd": "March 2021",
+      "toolsUsed": [
+        "python3",
+        "pyfirmata",
+        "Arduino UNO R3",
+        "Speaker",
+        "host machine",
+        "Microphone"
+      ],
+      "tags": [
+        "home automation",
+        "python3",
+        "pyfirmata",
+        "SpeechRecognition",
+        "time",
+        "PyAudio",
+        "serial"
+      ],
+      "shortInfo": "Developed a Python based <b>Home Automation</b> project.<br>Which is based on Arduino as a switching device.<br>Voice recognition, as well as vhat and global command functions are used in this project.",
+      "link": "https://github.com/Arijit-Bhowmick/HOME-AI"
+    },
+    {
+      "sn": -1,
+      "projectTitle": "WHATSAPP SPAMMER",
+      "periodStart": "April 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python3",
+        "selenium"
+      ],
+      "tags": [
+        "whatsapp",
+        "python",
+        "selenium",
+        "hashlib",
+        "gecko"
+      ],
+      "shortInfo": "Developed a Python based WhatsApp Spamming Script",
+      "link": "https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER"
+    },
+    {
+      "sn": 0,
+      "projectTitle": "PY3_SEC2020_DDOS_ATTACKER",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "python",
+        "requests",
+        "threading",
+        "datetime"
+      ],
+      "tags": [
+        "python3",
+        "ddos"
+      ],
+      "shortInfo": "Programmed a DDOS Script using python3",
+      "link": "https://github.com/Arijit-Bhowmick/PY3_SEC2020_DDOS_ATTACKER"
+    }
+  ],
+  "summary": "<p>Hello, I'm a Cybersecurity enthusiast and B.Tech Cybersecurity and Forensics student having 4 years of experience as Software Development, CTF playing, Pentesting, and blogging. As of now I'm involved in developing open source softwares, playing and developing CTF's challenges and Bug Bounty.</p>\n\n<p>I'm passionate about Cybersecurity Programs and Programming, I do deliver, clean, test-covered, well-designed and scalable code. I seek to learn and try to apply all of it in a way that makes life easier.</p>",
+  "profileLinks": [
+    {
+      "name": "Github",
+      "icon": "github.svg",
+      "link": "https://github.com/Arijit-Bhowmick",
+      "sn": 2
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/arijit-bhowmick-25a4b4209/",
+      "sn": 1
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg",
+      "link": "https://www.instagram.com/sys41x4/",
+      "sn": 4
+    },
+    {
+      "name": "Twitter",
+      "icon": "twitter.svg",
+      "link": "https://twitter.com/sys41x4",
+      "sn": 3
+    }
+  ],
+  
+  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm currently involved in playing CTF's and Pentesting to make a recognition in Infosec world</p>\n<p>I do also develop CTF Challenges and Open Source projects in my leasure time. I am currently learning B.Tech Cybersecurity and Digital Forensics at <a href='http://sageuniversity.in'>SAGE UNIVERSITY, INDORE, INDIA</a> and my schooling from <a href='http://chakdahamodelschool.in'>Chakdaha Model School, West Bengal, INDIA</a>.</p>\n\n<p>I'm interested in developing Open-Source softwares, Playing and Making CTF Challenges, Pentesting, reading books and blogging. I overwhelmingly like Python, and try to make it my default programming language as much as possible :)</p>\n\n<p>How can I help you?</br>I can design, develop, inspect, pentest and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+}
