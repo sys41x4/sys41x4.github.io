@@ -10,12 +10,104 @@ redirect_from:
 
 dynamic_title: true
 ---
+<style type="text/css" media="screen">
+ @import 'https://fonts.googleapis.com/css?family=Inconsolata';
 
-<div class="lead">
-  <p>Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. </p>
-  <p>
-    <a href="{{ '/' | relative_url }}">Head back Home</a>
-    to try finding it again, or search for it on the
+html {
+  min-height: 100%;
+}
+
+body {
+  box-sizing: border-box;
+  height: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Inconsolata', Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: rgba(128, 255, 128, 0.8);
+
+}
+
+
+
+.overlay {
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  background-size: auto 4px;
+  z-index: 1;
+}
+
+.overlay::before {
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+
+  background-repeat: no-repeat;
+  animation: scan 7.5s linear 0s infinite;
+}
+
+.output {
+  color: rgba(128, 255, 128, 0.8);
+
+}
+
+.output::before {
+  content: "root@sys41x4# ";
+  color: red;
+}
+
+/*
+.input {
+  color: rgba(192, 255, 192, 0.8);
+  text-shadow:
+      0 0 1px rgba(51, 255, 51, 0.4),
+      0 0 2px rgba(255, 255, 255, 0.8);
+}
+
+.input::before {
+  content: "$ ";
+}
+*/
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a::before {
+  content: "";
+}
+
+a::after {
+  content: "";
+}
+
+.errorcode {
+  color: white;
+}
+  
+  </style>
+
+
+<div class="noise"></div>
+<div class="overlay"></div>
+<div class="terminal">
+  <h1>Error <span class="errorcode">404</span></h1>
+  <p class="output">The page you are looking for might have been removed, had its name changed or is temporarily unavailable.</p>
+  <p class="output">Please try to <a href="javascript:history.back()">[go back]</a> or <a href="/">[return to the homepage]</a>
+    and try to find it again, or search for it on 
     <a href="{{ 'archives' | relative_url }}">Archives page</a>.
   </p>
+  <p class="output">Good luck.</p>
 </div>
