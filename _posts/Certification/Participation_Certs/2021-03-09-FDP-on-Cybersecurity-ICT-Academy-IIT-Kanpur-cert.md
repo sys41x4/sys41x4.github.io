@@ -16,4 +16,4 @@ Credential ID : `40167-412231-e85a5126a1d96b10`<br>
 Certificate Link : <a href="https://raw.githubusercontent.com/Arijit-Bhowmick/My_Certifications/main/Participation_Certs/E%20%26%20ICT%20Academy%20IIT%20Kanpur/Faculty%20Development%20Program%20on%20Cybersecurity_%5B40167-412231-e85a5126a1d96b10%5D.pdf" target="_blank">Open Certificate</a><br>
 
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

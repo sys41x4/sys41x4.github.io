@@ -17,4 +17,4 @@ View Certificate : <a method="get" action="https://raw.githubusercontent.com/Ari
 Badge link : <a href="https://www.credly.com/badges/1857a466-94b3-484f-bf63-e66762d116a0" target="_blank">Introduction to Cybersecurity English 1120 Badge</a><br><br>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6429213c-9607-4872-86dd-c56626cd1e11" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

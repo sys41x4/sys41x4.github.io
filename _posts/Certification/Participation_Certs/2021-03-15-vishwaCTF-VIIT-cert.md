@@ -17,4 +17,4 @@ Certificate Link : <a href="https://raw.githubusercontent.com/Arijit-Bhowmick/My
 Badge link : <a href="https://verify.givemycertificate.com/verify/M24-8F7Y-Y48" target="_blank">VishwaCTF21</a><br><br>
 
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

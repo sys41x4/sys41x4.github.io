@@ -16,4 +16,4 @@ Credential ID : `8f216bc2-12d8-4611-9ead-198909dde195`<br>
 Certificate Link : <a href="https://university.mongodb.com/course_completion/8f216bc2-12d8-4611-9ead-198909dde195?utm_source=copy&utm_medium=social&utm_campaign=sys41x4.github.io" target="_blank">Open Certificate</a><br>
 
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

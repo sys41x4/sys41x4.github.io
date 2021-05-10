@@ -17,4 +17,4 @@ View Certificate : <a href="https://raw.githubusercontent.com/Arijit-Bhowmick/My
 Badge link : <a href="https://www.credly.com/badges/6ebab484-5703-4351-81ec-f07d194d3ffb" target="_blank">Introduction to Packet Tracer English 1120 cga Badge</a><br><br>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6ebab484-5703-4351-81ec-f07d194d3ffb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

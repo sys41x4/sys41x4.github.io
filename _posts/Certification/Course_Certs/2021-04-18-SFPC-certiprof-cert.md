@@ -17,4 +17,4 @@ Certificate Link : <a href="https://certificates.easy-lms.com/exam/session/a7c90
 Badge link : <a href="https://www.credly.com/badges/1857a466-94b3-484f-bf63-e66762d116a0" target="_blank">CertiProf SFPC Badge</a><br><br>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1857a466-94b3-484f-bf63-e66762d116a0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

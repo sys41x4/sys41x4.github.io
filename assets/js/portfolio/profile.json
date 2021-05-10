@@ -1,6 +1,6 @@
 {
   "personalInfo": {
-    "myimg": "profilePic.png",
+    "myimg": "profilePic-me.png",
     "fname": "Arijit",
     "mname": "",
     "lname": "Bhowmick",
@@ -11,10 +11,10 @@
         ""
       ]
     },
-    "infosecGitAcc": "<b><a href='https://github.com/sys41x4'>Github</a></b>",
-    "certifications": "<b><a href='/recognition'>Certifications</a></b>",
-    "writeup": "<b><a href='/recognition'>Infosec Writeup</a></b>",
-    "blog": "<b><a href='/recognition'>Blogs</a></b>",
+    "infosecGitAcc": "<b><a href='https://github.com/sys41x4' target='_blank'>Github</a></b>",
+    "certifications": "<b><a href='/categories'>Certifications</a></b>",
+    "blogs": "<b><a href='/'>Infosec Blogs</a></b>",
+    "donate":"<b><a href='/support/sys41x4'>Donate</a></b>",
     "email": "sys41x4@zohomail.in",
     "mob": ""
   },
@@ -885,5 +885,5 @@
     "You only live as long as the last person who remembers you.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm currently involved in playing CTF's and Pentesting to make a recognition in Infosec world</p>\n<p>I do also develop CTF Challenges and Open Source projects in my leasure time. I am currently learning B.Tech Cybersecurity and Digital Forensics at <a href='http://sageuniversity.in'>SAGE UNIVERSITY, INDORE, INDIA</a> and my schooling from <a href='http://chakdahamodelschool.in'>Chakdaha Model School, West Bengal, INDIA</a>.</p>\n\n<p>I'm interested in developing Open-Source softwares, Playing and Making CTF Challenges, Pentesting, reading books and blogging. I overwhelmingly like Python, and try to make it my default programming language as much as possible :)</p>\n\n<p>How can I help you?</br>I can design, develop, inspect, pentest and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm currently involved in playing CTF's and Pentesting to make a recognition in Infosec world</p>\n<p>I do also develop CTF Challenges and Open Source projects in my leasure time. I am currently learning B.Tech Cybersecurity and Digital Forensics at <a href='http://sageuniversity.in' target='_blank'>SAGE UNIVERSITY, INDORE, INDIA</a> and my schooling from <a href='http://chakdahamodelschool.in' target='_blank'>Chakdaha Model School, West Bengal, INDIA</a>.</p>\n\n<p>I'm interested in developing Open-Source softwares, Playing and Making CTF Challenges, Pentesting, reading books and blogging. I overwhelmingly like Python, and try to make it my default programming language as much as possible :)</p>\n\n<p>How can I help you?</br>I can design, develop, inspect, pentest and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }

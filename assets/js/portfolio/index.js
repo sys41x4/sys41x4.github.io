@@ -53,7 +53,7 @@ function loadWorks(experince){
 		worksInnerHTML+=`
 		<div class="row work">
 			<div class="row title">
-				<a href="${works[i].link}">${works[i].organisation}</a> |
+				<a href="${works[i].link}" target="_blank">${works[i].organisation}</a> |
 				${works[i].workPosition} |
 				${works[i].periodStart} - ${works[i].periodEnd}
 			</div>
@@ -159,9 +159,9 @@ function loadMoghysSays() {
 	const sys41x4SaysInnerHtml = `<div class="col m6">
 		<h6>Recipe for this website:</h6>	
 		<div class="row">
-			Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/Arijit-Bhowmick">Arijit-Bhowmick</a> covered it up for everyone out their. 
+			Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="https://github.com/sys41x4">Arijit-Bhowmick</a> covered it up for everyone out their. 
 			All the content on this website is dynamically loaded from JSON data.
-			Fork this <a href="https://github.com/Arijit-Bhowmick/arijit-bhowmick.github.io/">repo</a> on github and edit <a href="https://github.com/Arijit-Bhowmick/arijit-bhowmick.github.io/blob/master/js/profile.json">js/profile.json</a> for adding your data.
+			Fork this <a href="https://github.com/sys41x4/sys41x4.github.io/">repo</a> on github and edit <a href="https://github.com/Arijit-Bhowmick/arijit-bhowmick.github.io/blob/master/js/profile.json">js/profile.json</a> for adding your data.
 			<a href="https://medium.com/howcatcancode/developer-profile-template-2017-219f43147efe">Read more</a><br>
 			If you like this website, consider giving a star to its repo <a href="https://github.com/Arijit-Bhowmick/arijit-bhowmick.github.io/">here</a>.
 		</div>
@@ -190,7 +190,7 @@ function loadMoghysSays() {
 	$('#sys41x4Says').html(sys41x4SaysInnerHtml);
 }
 
-$.get("/assets/js/profile.json", 
+$.get("/assets/js/portfolio/profile.json", 
 	function(data, status){
 		console.log('Got profile:',data,' \nwith status:',status);
 		if(status!=="success") {
@@ -198,10 +198,10 @@ $.get("/assets/js/profile.json",
 		}
 		profile = data;
 		var pInfo = profile.personalInfo;
-		$('title').html(pInfo.nick+'| Portfolio');
+		$('title').html(pInfo.nick+' | Portfolio');
 		$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
 		$('#image img').attr('src','/assets/img/'+pInfo.myimg);
-		$('#contact').html(pInfo.mob+'</br>'+pInfo.email+'</br>'+pInfo.writeup+'</br>'+pInfo.blog+'</br>'+pInfo.certifications+'</br>'+pInfo.infosecGitAcc);
+		$('#contact').html(pInfo.mob+'</br>'+pInfo.email+'</br>'+pInfo.infosecGitAcc+'</br>'+pInfo.blogs+'</br>'+pInfo.certifications+'</br>'+pInfo.donate);
 		$('#summary').html(profile.summary);
 		$('#tabs').html(`					
 			<li class="tab col s2"><a href="#hello">Hello</a></li>

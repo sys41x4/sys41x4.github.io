@@ -25,4 +25,4 @@ You can find informations about my education details <a href="/">here</a><br>
 
 Want to view my writeups? Then <a href="/">Click Here</a>
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

@@ -17,4 +17,4 @@ Certificate Link : <a href="https://www.guvi.in/certificate?id=6e13hw065c3121O5u
 Verification Link : <a href="https://www.guvi.in/verify-certificate?id=6e13hw065c3121O5u5&gwr=true" target="_blank">Verify</a><br>
 
 
-Want to support me up in my writeups and projects? Then <a href="/recognition/support/sys41x4">Click Here</a>
+Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>
