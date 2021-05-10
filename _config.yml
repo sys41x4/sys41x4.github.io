@@ -33,8 +33,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Arijit Bhowmick
+  email: sys41x4@zohomail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/sys41x4      # change to your twitter homepage
@@ -64,7 +64,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   dark# [light|dark]
+theme_mode:   dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
