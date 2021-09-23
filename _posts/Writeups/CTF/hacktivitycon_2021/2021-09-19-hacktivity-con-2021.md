@@ -29,7 +29,6 @@ Challenges Solved : Bass64 [WARMUPS]
                     Swaggy [WEB]
                     Jed Sheeran [OSINT]
                     Mike Shallot [OSINT]
-
 Team Score Board : 1011
 ```
 <a href="/assets/CTF/hacktivitycon_2021/hacktivitycon_ctf_2021-MINOTAURSEC.pdf">VIEW TEAM SCORE BOARD</a>
@@ -54,7 +53,8 @@ After oppening it we will be presented with an ASCII ART<br>
 Here I have used **micro** (A terminal text editor) to open the file.<br>
 We can also use **nano**,**sublime text**, or any other text editor we want
 
-After getting the text, we just have to type those in terminal and we will be presented with a base64 encoded string.<br>
+After getting the text, we just have to type those in terminal<br>
+and we will be presented with a base64 encoded string.<br>
 Just decoding it will give us the FLAG for this challenge
 
 ![Bass64 FLAG](/assets/CTF/hacktivitycon_2021/Challenges/Bass64/bass64_flag.png)
@@ -297,9 +297,9 @@ Then I have analysed it with `checksec` (A tool from pwntools package)
 
 ![Butter Overflow checksec analysis](/assets/CTF/hacktivitycon_2021/Challenges/Butter-Overflow/Butter-Overflow_checksec.png)
 
-Then I have generated a len 100 cyclic string and forward it to file named `alphabet`<br>
-using the command `cyclic 100 > alphabet`<br>
-Which means `alphabet` is a filename and can be of any name you want, and it contains a string having length 100.
+Then I have generated a len 1000 cyclic string and forward it to file named `alphabet`<br>
+using the command `cyclic 1000 > alphabet`<br>
+Which means `alphabet` is a filename and can be of any name you want, and it contains a string having length 1000.
 
 Let Us now use gdb to analyse the binary.
 
@@ -311,7 +311,7 @@ we got to see that a bufferoverflow has occured.
 
 ![Butter Overflow pwndbg analysis](/assets/CTF/hacktivitycon_2021/Challenges/Butter-Overflow/Butter-Overflow_pwndbg.png)
 
-We got to see that we have a hit at string `faafgaf`<br>
+We got to see that we have a hit at string `faafgaaf`<br>
 Finding the string in the `alphabet` file using `grep` give us the exact string<br>
 which we require to cause the overflow.
 
@@ -329,9 +329,6 @@ as an input string provide us the flag for this challenge.
 ![Butter Overflow Flag](/assets/CTF/hacktivitycon_2021/Challenges/Butter-Overflow/Butter-Overflow_flag.png)
 
 `FLAG : flag{72d8784a5da3a8f56d2106c12dbab989}`
-
-Thankyou, for reading my writeup :)<br>
-Hope, I would see you in my next writeup.
 
 ## Pimple [WARMUPS]
 
@@ -457,7 +454,155 @@ Then using the `cat` command to print the content of `flag.txt` file provide us 
 
 `FLAG : flag{62b8b3cb5b8c6803bf3dc585b1b5141d}`
 
-### Other solutions comming soon ...
+## Swaggy [WEB]
+
+![Swaggy Details](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_details.png)
+
+`Author: @congon4tor#2334`
+
+`This API documentation has all the swag`
+
+## Swaggy | [SOLUTION]
+
+Let us start the instance for this challenge.
+
+Then we are provided with a HTTP Address<br>
+In this case we are provided with `http://challenge.ctf.games:32286`
+
+Onn visiting the web address we have been provided with a webapp.
+
+![Swaggy Homepage](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_homepage.png)
+
+Let us change to `staging server for testing` where it was written `Production (Currently Unavailable)`<br>
+so that we can now test the webapp.
+
+![Swaggy Testing Server](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_testing-server.png)
+
+We can now click on the `Authorize` Tab to see what it does.<br>
+On selecting it we can see a Dialog Box<br>
+where we have to enter `username` and `Password`<br>
+
+![Swaggy Authorize Tab](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_basic-auth.png)
+
+As we all know the default testing credentials is `admin : admin`<br>
+and we can see that we got it correct. \0/
+
+![Swaggy Authorize Grant](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_basic-auth-access-grant.png)
+
+Then closing the Dialog Box and selecting the `/flag` Tab to see the content in that Tab.
+
+![Swaggy /flag Tab](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_flag-tab-details.png)
+
+Then clicking on `Try it out` button to see what happens next.<br>
+On clicking it we can see that another button mentioning `Execute` is shown
+
+![Swaggy /flag Tab Try-it-out](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_flag-tab-tryout.png)
+
+While clicking the `Execute` button we have be presented with a curl command
+
+![Swaggy /flag Tab Execute](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_curl-request.png)
+
+While copying and pasting the provided `curl` command in terminal and executing it<br>
+We got to see the Flag for this challenge.
+
+![Swaggy Flag](/assets/CTF/hacktivitycon_2021/Challenges/Swaggy/Swaggy_flag.png)
+
+`FLAG : flag{e04f962d0529a4289a685112bf1dcdd3}`
+
+## Jed Sheeran [OSINT]
+
+![Jed Sheeran Details](/assets/CTF/hacktivitycon_2021/Challenges/Jed-Sheeran/Jed-Sheeran_details.png)
+
+`Author: @JohnHammond#6971`
+
+`Oh we have another fan with a budding music carrier! Jed Sheeran is seemingly trying to produce new songs based off of his number one favourite artist... but it doesn't all sound so good. Can you find him?`
+
+`Find the flag somewhere in the world wide web with the clues provided.`
+
+
+## Jed Sheeran | [SOLUTION]
+
+Search For `Jed Sheeran`  in Google Search<br>
+We are going to get a link to `soundcloud` at first.
+
+![Jed Sheeran Google Search](/assets/CTF/hacktivitycon_2021/Challenges/Jed-Sheeran/Jed-Sheeran_google-search.png)
+
+Visiting the link will provide us with `Jed Sheeran` Soundcloud profile.
+
+![Jed Sheeran SoundCloud UA](/assets/CTF/hacktivitycon_2021/Challenges/Jed-Sheeran/Jed-Sheeran_soundcloud-UA.png)
+
+There will be a song named `Beautiful People`<br>
+and opening that song's comment section provide us our flag for this challenge.
+
+![Jed Sheeran flag](/assets/CTF/hacktivitycon_2021/Challenges/Jed-Sheeran/Jed-Sheeran_flag.png)
+
+`FLAG : flag{59e56590445321ccefb4d91bba61f16c}`
+
+## Mike Shallot [OSINT]
+
+![Mike Shallot Details](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_details.png)
+
+`Author: @JohnHammond#6971`
+
+`Mike Shallot is one shady fella. We are aware of him trying to share some specific intel, but hide it amongst the corners and crevices of internet. Can you find his secret?`
+
+`Find the flag somewhere in the world wide web with the clues provided`
+
+## Mike Shallot | [SOLUTION]
+
+While searching the username `mikeshallot` in `twitter`, `reddit`, `facebook`, `instagram` and other sites<br>
+We didn't got any valid information about how to proceed further.<br>
+
+But searching in `pastebin` as username we got to see his account there<br>
+Which provide some information that makes us sure that it is what we are finding for.
+
+![Mike Shallot pastebin UA](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_pastebin-UA.png)
+
+There we see that the account has a note for public access named as `Shallot's Summons`<br>
+Opening the note provide some information and 2 strings.
+
+![Mike Shallot pastebin note](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_pastebin_note.png)
+
+The contents written there was
+
+```
+This site is not as safe as we need it to be. 
+Meet me in the dark and I will share my secret with you.
+ 
+Find me in the shadows, these may act as your light:
+ 
+strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd
+ 
+pduplowzp/nndw79
+```
+
+So basically there are two strings provided, the first string at line 6<br>
+which seems to be an `onion` link.
+
+Using `Google Dorking` to find any valid information about the first random string.<br>
+I have used `inurl:strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd intext:strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd` as dorking string<br>
+
+So here it is. It's an onion link.
+
+![Mike Shallot onion link google search](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_onion-link-google-search.png)
+
+After visiting the link we are provided with `Stronghold Paste` webapp<br>
+Similar to `pastebin`<br>
+So it's simply a data pasting field.<br>
+
+Do you remember we have another string at `line 8` in `pastebin` content ?
+
+![Mike Shallot pastebin last string](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_pastebin-last-string.png)
+
+
+On pasting the 2nd strings from `line 8` in url as<br>
+`https://strongerw2ise74v3duebgsvug4mehyhlpa7f6kfwnas7zofs3kov7yd.onion.ly/pduplowzp/nndw79`<br>
+
+We got to see the Flag for this challenge \0/
+
+![Mike Shallot flag](/assets/CTF/hacktivitycon_2021/Challenges/Mike-Shallot/Mike-Shallot_flag.png)
+
+`FLAG : flag{6e57a4c0be1656f9bc873647f49b9cdc}`
 
 Thankyou, for reading my writeup :)<br>
 Hope, I would see you in my next writeup.
