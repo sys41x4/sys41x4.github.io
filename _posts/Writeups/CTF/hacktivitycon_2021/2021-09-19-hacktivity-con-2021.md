@@ -13,7 +13,9 @@ Team Name : MINOTAURSEC
 
 Team Members : sys41x4 [Arijit Bhowmick]
                (https://twitter.com/sys41x4)
-               meet9#4291 {Discord}
+               
+               meet9#4291 {Discord} [Meet Bhanushali]
+               (https://twitter.com/Bhanushalimeet5)
 Team Points Earned : 1011
 Team Position : 331
 Challenges Solved : Bass64 [WARMUPS]
