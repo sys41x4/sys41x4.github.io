@@ -3,7 +3,6 @@ title: CertiProf [SFPC] Certification
 author: Arijit Bhowmick [sys41x4]
 date: 2021-04-18 18:32:00 -0500
 categories: [Certifications, Certiprof, SFPC]
-tags: [Certification, Certificate, Easy, CertiProf, SFPC, April, "2021"]
 permalink: "/certification/CertiProf/SFPC/18-04-2021.html"
 ---
 

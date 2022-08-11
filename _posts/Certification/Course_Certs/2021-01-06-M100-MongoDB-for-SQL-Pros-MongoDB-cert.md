@@ -3,7 +3,6 @@ title: MongoDB [MongoDB for SQL Pros] Certificate
 author: Arijit Bhowmick [sys41x4]
 date: 2021-01-06 18:32:00 -0500
 categories: [Certifications, MongoDB, "MongoDB for SQL Pros"]
-tags: [Certification, Certificate, Easy, MongoDB, "MongoDB for SQL Pros", January, "2021"]
 permalink: "/certification/MongoDB/MongoDB for SQL Pros/06-01-2021.html"
 ---
 

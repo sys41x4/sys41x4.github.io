@@ -3,7 +3,6 @@ title: eJPT Notes [Arijit Bhowmick][sys41x4]
 author: Arijit Bhowmick [sys41x4]
 date: 2021-10-01 18:32:00 -0500
 categories: [Certifications, eLearnSecurity, eJPT]
-tags: [Course, Certification, eJPT, Notes, sys41x4, INE, "INE Free Training", eLearnSecurity, python]
 permalink: "/certification/eLearnSecurity/eJPT/eJPT-notes-sys41x4.html"
 ---
 

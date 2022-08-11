@@ -3,7 +3,6 @@ title: CISCO [Introduction to Cybersecurity English 1120] Certification
 author: Arijit Bhowmick [sys41x4]
 date: 2020-11-16 18:32:00 -0500
 categories: [Certifications, CISCO, Introduction-to-Cybersecurity-English-1120]
-tags: [Certification, Certificate, Easy, CISCO, "Introduction to cybersecurity", November, "2020"]
 permalink: "/certification/CISCO/Introduction_to_Cybersecurity_English_1120/16-11-2020.html"
 ---
 

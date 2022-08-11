@@ -3,7 +3,6 @@ title: Support sys41x4 [Author]
 author: Arijit Bhowmick [sys41x4]
 date: 2021-01-01 00:00:00 -0500
 categories: [Support, Author]
-tags: [support, sys41x4, me, author, root, researcher, pentester, "Bug Hunter", "htb player", "thm player", writeup, python]
 permalink: "/support/sys41x4.html"
 ---
 

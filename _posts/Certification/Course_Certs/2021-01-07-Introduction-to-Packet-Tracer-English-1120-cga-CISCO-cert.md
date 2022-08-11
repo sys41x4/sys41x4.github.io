@@ -3,7 +3,6 @@ title: CISCO [Introduction to Packet Tracer English 1120 cga] Certification
 author: Arijit Bhowmick [sys41x4]
 date: 2020-11-16 18:32:00 -0500
 categories: [Certifications, CISCO, Introduction-to-Packet-Tracer-English-1120-cga]
-tags: [Certification, Certificate, Easy, CISCO, "Introduction to Packet Tracer", January, "2021"]
 permalink: "/certification/CISCO/Introduction_to_Packet_Tracer_English_1120_cga/07-01-2021.html"
 ---
 

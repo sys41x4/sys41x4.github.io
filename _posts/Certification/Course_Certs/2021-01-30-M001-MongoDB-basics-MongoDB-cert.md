@@ -3,7 +3,6 @@ title: MongoDB [MongoDB Basics] Certificate
 author: Arijit Bhowmick [sys41x4]
 date: 2021-01-30 18:32:00 -0500
 categories: [Certifications, MongoDB, "MongoDB Basics"]
-tags: [Certification, Certificate, Easy, MongoDB, "MongoDB Basics", January, "2021"]
 permalink: "/certification/MongoDB/MongoDB Basics/30-01-2021.html"
 ---
 

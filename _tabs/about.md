@@ -23,6 +23,6 @@ That's fine, please introduce me something that I'm missing.<br>
 
 You can find informations about my education details <a href="/">here</a><br>
 
-Want to view my writeups? Then <a href="/">Click Here</a>
+Want to view my writeups? Then <a href="/blogs">Click Here</a>
 
 Want to support me up in my writeups and projects? Then <a href="/support/sys41x4">Click Here</a>

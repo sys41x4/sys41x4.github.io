@@ -156,7 +156,7 @@ help() {
   echo "     -h, --help           Print this help information."
 }
 
-main() {
+master() {
   check
 
   _latest_tag="$(git describe --tags $(git rev-list --tags --max-count=1))"
@@ -199,4 +199,4 @@ while (($#)); do
   esac
 done
 
-main
+master
