@@ -16,7 +16,7 @@
 #
 # Usage:
 #
-#   Switch to 'master' branch or 'X-Y-stable' branch with argument '-m',
+#   Switch to 'main' branch or 'X-Y-stable' branch with argument '-m',
 #`  and then run this script.
 #
 #
@@ -48,9 +48,9 @@ check() {
     exit -1
   fi
 
-  # ensure the current branch is 'master' or running in 'manual' mode
-  if [[ "$(git branch --show-current)" != "master" && $manual_release == "false" ]]; then
-    echo "Error: This operation must be performed on the 'master' branch or '--manual' mode!"
+  # ensure the current branch is 'main' or running in 'manual' mode
+  if [[ "$(git branch --show-current)" != "main" && $manual_release == "false" ]]; then
+    echo "Error: This operation must be performed on the 'main' branch or '--manual' mode!"
     exit -1
   fi
 
@@ -125,8 +125,8 @@ release() {
     git checkout -b "$_release_branch"
   else
     git checkout "$_release_branch"
-    # cherry-pick the latest commit from master branch to release branch
-    git cherry-pick "$(git rev-parse master)"
+    # cherry-pick the latest commit from main branch to release branch
+    git cherry-pick "$(git rev-parse main)"
   fi
 
   echo -e "Bump version to $_version\n"
@@ -138,9 +138,9 @@ release() {
   echo -e "Build the gem pakcage for v$_version\n"
   build_gem
 
-  # head back to master branch
-  git checkout master
-  # cherry-pick the latest commit from release branch to master branch
+  # head back to main branch
+  git checkout main
+  # cherry-pick the latest commit from release branch to main branch
   git cherry-pick "$_release_branch" -x
 
 }
@@ -156,7 +156,7 @@ help() {
   echo "     -h, --help           Print this help information."
 }
 
-master() {
+main() {
   check
 
   _latest_tag="$(git describe --tags $(git rev-list --tags --max-count=1))"
@@ -199,4 +199,4 @@ while (($#)); do
   esac
 done
 
-master
+main
