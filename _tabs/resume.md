@@ -8,7 +8,7 @@ order: 2
 <table class="noborder">
   <tr class="noborder">
 <td class="noborder pad8" style="text-align: center;">
-  <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" download="Arijit Bhowmick [sys41x4] Resume"><bb>Download</bb></a>
+  <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/octet-stream" download="yourpdf.pdf"><bb>Download</bb></a>
 </td>
 <td class="noborder pad8" style="text-align: center;">
   <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"><w>Full Screen Preview</w></a>
@@ -16,5 +16,5 @@ order: 2
   </tr>
 </table>
 </center>
-<object data="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf" style="height:100vh; width:100vh"></object>
+<iframe src="https://docs.google.com/viewer?url=https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf&embedded=true" style="height:100vh; width:100vh" />
 </pre>
