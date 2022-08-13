@@ -40,13 +40,32 @@
 			text-align: center;
 
 		}
+
+a:link, a:visited, a:active, a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.pad4{
+  padding: 4px;
+}
+
+.pad8{
+  padding: 8px;
+}
+
 canvas {display:block;}
 
 #profile-pic {
-	height: 20vh;
+  max-width: 45%;
+	height: auto;
 	border: 2px solid #0F0;
 	padding: 2vh;
 	border-style: dashed;
+  
 }
 
 th, td {
@@ -55,9 +74,12 @@ th, td {
 	vertical-align: top;
 }
 
-.text-center {
-  text-align: center;
+.noborder{
+  border-style: none;
+	border-collapse: collapse;
+	vertical-align: top;
 }
+
 
 table.center {
   margin-left: auto; 

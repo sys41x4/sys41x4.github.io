@@ -2,25 +2,98 @@
   The Top Bar
 -->
 
-<div id="top-wrapper" class="d-flex justify-content-center">
-  <div id="topbar" class="container pl-xl-4 pr-xl-4">
+<div id="top-wrapper">
+  <div id="topbar" class="container ">
+      <div>
+      <span id="breadcrumb">
+
+        {% assign paths = page.url | split: '/' %}
+    
+        {% if paths.size == 0 or page.layout == 'home' %}
+          <!-- index page -->
+    
+        {% else %}
+    
+          {% for item in paths %}
+    
+            {% if forloop.first %}
+              <span>
+                <a href="{{ '/' | relative_url }}">
+                  {{ site.data.locales[lang].tabs.home | capitalize }}
+                </a>
+              </span>
+    
+            {% elsif forloop.last %}
+    
+              {% if page.collection == 'tabs' %}
+                <span>{{ site.data.locales[lang].tabs[item] | default: page.title }}</span>
+              {% else %}
+                <span>{{ page.title }}</span>
+              {% endif %}
+    
+            {% elsif page.layout == 'category' or page.layout == 'tag' %}
+              <span>
+                <a href="{{ item | relative_url }}">
+                  {{ site.data.locales[lang].tabs[item] | default: page.title }}
+                </a>
+              </span>
+            {% endif %}
+    
+          {% endfor %}
+    
+        {% endif %}
+    
+        </span><!-- endof #breadcrumb -->
+    
+        <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
+      </div>
+
 <center>
+
 <div class="content" style="display: inline-block; text-align: center;">
-<pre style="border: 0px">
+<pre style="border: 0px; max-width: 100%; height: auto; letter-spacing: 0px; line-height: 0.8;">
+
+:<y>___________________________________________________________________________________________________________________</y>:
+:<y>-------------------------------------------------------------------------------------------------------------------</y>:
 
 <gy>░██████╗██╗░░░██╗░██████╗░░██╗██╗░░███╗░░██╗░░██╗░░██╗██╗</gy>
 <gy>██╔════╝╚██╗░██╔╝██╔════╝░██╔╝██║░████║░░╚██╗██╔╝░██╔╝██║</gy>
-.<y>_________________________ <gy> ╚█████╗░░╚████╔╝░╚█████╗░██╔╝░██║██╔██║░░░╚███╔╝░██╔╝░██║</gy>  _________________________</y>.
-:<y>-------------------------<gy> ░╚═══██╗░░╚██╔╝░░░╚═══██╗███████║╚═╝██║░░░██╔██╗░███████║</gy> -------------------------</y>:
-                    <gy> ██████╔╝░░░██║░░░██████╔╝╚════██║███████╗██╔╝╚██╗╚════██║</gy>                     
-                    <gy> ╚═════╝░░░░╚═╝░░░╚═════╝░░░░░░╚═╝╚══════╝╚═╝░░╚═╝░░░░░╚═╝</gy>                     
-:<y>_______________________________________________________________________________________________________________________________________</y>:
-:<y>---------------------------------------------------------------------------------------------------------------------------------------</y>:
+<gy>╚█████╗░░╚████╔╝░╚█████╗░██╔╝░██║██╔██║░░░╚███╔╝░██╔╝░██║</gy>
+<gy>░╚═══██╗░░╚██╔╝░░░╚═══██╗███████║╚═╝██║░░░██╔██╗░███████║</gy>
+<gy>██████╔╝░░░██║░░░██████╔╝╚════██║███████╗██╔╝╚██╗╚════██║</gy>
+<gy>╚═════╝░░░░╚═╝░░░╚═════╝░░░░░░╚═╝╚══════╝╚═╝░░╚═╝░░░░░╚═╝</gy>
+:<y>___________________________________________________________________________________________________________________</y>:
+:<y>-------------------------------------------------------------------------------------------------------------------</y>:
 
 <center><div class="counter"><span id="time"></span></div> </center>
+<center>
+<table class="noborder">
+  <tr class="noborder">
+<td class="noborder pad8">
+  <a href="/blog"><bb>Blogs</bb></a>
+</td>
+<td class="noborder pad8">
+  <a href="/writeup"><w>Write-Ups</w></a>
+</td>
+<td class="noborder pad8">
+  <a href="/training"><lg>Certs/Training</lg></a>
+</td>
+<td class="noborder pad8">
+  <a href="/lab"><gy>Labs</gy></a>
+</td>
+<td class="noborder pad8">
+  <a href="/about">About Me</a>
+</td>
+<td class="noborder pad8">
+  <a href="/support/sys41x4"><lg>Donate</lg></a>
+</td>
+  </tr>
+</table>
+</center>
 </pre>
 </div>
 </center>
 
+</div>
 </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Donate
-icon: fas fa-info
+icon: fa fa-inr
 order: 5
 ---
 
