@@ -9,7 +9,7 @@ permalink: "/tool/kivy-buildozer-setup/documentation.html"
 
 ## Documentation
 
-![setup Details]()
+![setup Details](/assets/tools/kivy_buildozer_setup/img/kivy_buildozer_setup.png)
 
 ### Project Repository Link
 
