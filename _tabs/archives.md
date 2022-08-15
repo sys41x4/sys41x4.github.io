@@ -1,7 +1,7 @@
 ---
 layout: archives
-title: Archives
-icon: fas fa-archive
+title: Tool Updates
+icon: fa fa-refresh
 order: 4
 ---
 
