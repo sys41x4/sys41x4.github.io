@@ -2,14 +2,14 @@
 title: kivy-buildozer-setup [GitHub] Documentation
 author: Arijit Bhowmick [sys41x4]
 date: 2021-05-18 18:32:00 -0500
-categories: [GitHub, kivy-buildozer-setup, Documentation]
+categories: [Tools & Documentation, kivy-buildozer-setup, Documentation]
 permalink: "/tool/kivy-buildozer-setup/documentation.html"
 ---
 
 
 ## Documentation
 
-![setup Details](/assets/tools/kivy_buildozer_setup/img/kivy_buildozer_setup.png)
+![setup Details](/assets/tools/kivy_buildozer_setup/img/kivy_buildozer_setup.jpg)
 
 ### Project Repository Link
 
