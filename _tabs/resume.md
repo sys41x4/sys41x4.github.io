@@ -22,8 +22,8 @@ order: 2
   </tr> -->
   
 </table>
-<img src="https://kounter.tk/badge/sys41x4.github.io_resume?label=&color=333&style=for-the-badge&cntSuffix=%20Views">
-
 </center>
+
+<img src="https://kounter.tk/badge/sys41x4.github.io_resume?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/>
 <iframe src="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview" allow="autoplay" style="min-height:60vh;width:100vh"/>
 </pre>
