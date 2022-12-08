@@ -7,84 +7,86 @@ permalink: "/tools.html"
 ---
 
 ## 1. AUTOME AI
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/sys41x4/AUTOME-AI"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 2. OPEN101 WATCH [NANO LIGHT]
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/open101watch/OPEN101_SW_NANO_LIGHT"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 3. DDoS IT DOWN
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/sys41x4/DDoS-IT-DOWN"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 4. DoS IT DOWN
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/sys41x4/DoS-IT-DOWN"><iky>PROJECT LINK</iky></a>
+
 ---
 
 ## 5. GIVE MY SEAT
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/Arijit-Bhowmick/Give-My-Seat"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 6. DECENTRALIZED INTERNET RELAY CHAT SYSTEM
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<iky>PROJECT LINK</iky>
 
 ---
 
 ## 7. MP3 MUSIC PLAYER [CLI]
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<iky>PROJECT LINK</iky>
+
 ---
 
 ## 8. YOUTUBE VIDEO DOWNLOADER [CLI]
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<iky>PROJECT LINK</iky>
 
 ---
 
 ## 9. HOME-AI
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/Arijit-Bhowmick/HOME-AI"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 10. KIVY BUILDOZER SETUP
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/sys41x4/kivy-buildozer-setup"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 12. 0x41 MUSIC PLAYER
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 12. SEC-WHATSAPP SPAMMER
-DOCUMENTATION
-BLOG
-PROJECT LINK
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER"><iky>PROJECT LINK</iky></a>
 
 ---
 
