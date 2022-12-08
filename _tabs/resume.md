@@ -7,23 +7,19 @@ order: 2
 <center>
 <table class="noborder">
   <tr class="noborder">
-<td class="noborder pad8" style="text-align: center;">
-  <a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/view" type="application/octet-stream" download="yourpdf.pdf"><bb>Download</bb></a>
-</td>
-<td class="noborder pad8" style="text-align: center;">
-<a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview"><w>Full Screen Preview</w></a>
-</td>
+    <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
+      <a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/view" style="text-decoration: none" type="application/octet-stream" download="ARIJIT_BHOWMICK_RESUME_2022.pdf"><bb>Download</bb>
+      </a>
+    </td>
+    <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
+      <a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview"><w>Full Screen Preview</w></a>
+    </td>
+    <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
+      <iframe src="https://kounter.tk/badge/sys41x4.github.io_resume?label=&color=23262a&style=for-the-badge&cntSuffix=%20RESUME%20VIEWS"  style="max-height:28px;width:148px; border-width:0"></iframe>
+    </td>
   </tr>
-
-  <!-- <tr class="noborder">
-<td class="noborder pad8" style="text-align: center;">
-<a href="https://docs.google.com/viewerng/viewer?url=https://github.com/sys41x4/sys41x4.github.io/raw/main/assets/docs/resume/Arijit+Bhowmick+%5Bsys41x4%5D+Resume.pdf"><w>Full Screen Preview</w></a>
-</td>
-  </tr> -->
-  
 </table>
 </center>
 
-<img src="https://kounter.tk/badge/sys41x4.github.io_resume?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/>
-<iframe src="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview" allow="autoplay" style="min-height:60vh;width:100vh"/>
+<iframe src="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview" allow="autoplay" style="min-height:60vh;width:100vh"></iframe>
 </pre>
