@@ -1,7 +1,7 @@
 ---
 title: Software and Toolkits
 author: Arijit Bhowmick [sys41x4]
-date: 2022-01-01 18:32:00 -0500
+date: 2022-01-01 12:32:00 -0500
 categories: [Tools & Documentation, Software, ToolKit, Documentation]
 permalink: "/tools.html"
 ---
@@ -9,35 +9,35 @@ permalink: "/tools.html"
 ## 1. AUTOME AI
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/sys41x4/AUTOME-AI"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/sys41x4/AUTOME-AI" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 2. OPEN101 WATCH [NANO LIGHT]
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/open101watch/OPEN101_SW_NANO_LIGHT"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/open101watch/OPEN101_SW_NANO_LIGHT" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 3. DDoS IT DOWN
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/sys41x4/DDoS-IT-DOWN"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/sys41x4/DDoS-IT-DOWN" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 4. DoS IT DOWN
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/sys41x4/DoS-IT-DOWN"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/sys41x4/DoS-IT-DOWN" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 5. GIVE MY SEAT
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/Arijit-Bhowmick/Give-My-Seat"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/Arijit-Bhowmick/Give-My-Seat" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
@@ -65,28 +65,28 @@ permalink: "/tools.html"
 ## 9. HOME-AI
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/Arijit-Bhowmick/HOME-AI"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/Arijit-Bhowmick/HOME-AI" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 10. KIVY BUILDOZER SETUP
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/sys41x4/kivy-buildozer-setup"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/sys41x4/kivy-buildozer-setup" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 12. 0x41 MUSIC PLAYER
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/Arijit-Bhowmick/0x41-MUSIC-PLAYER" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
 ## 12. SEC-WHATSAPP SPAMMER
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
-<a href="https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER"><iky>PROJECT LINK</iky></a>
+<a href="https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 

@@ -8,10 +8,6 @@ order: 2
 <table class="noborder">
   <tr class="noborder">
     <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
-      <a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/view" style="text-decoration: none" type="application/octet-stream" download="ARIJIT_BHOWMICK_RESUME_2022.pdf"><bb>Download</bb>
-      </a>
-    </td>
-    <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
       <a href="https://drive.google.com/file/d/1nmrUxpTAFinU003mh4oomq5PCoIt86KI/preview"><w>Full Screen Preview</w></a>
     </td>
     <td align="center" class="noborder pad8" style="vertical-align: middle; horizontal-align:middle; text-align: center;">
