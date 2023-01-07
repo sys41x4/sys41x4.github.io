@@ -6,70 +6,75 @@ categories: [Tools & Documentation, Software, ToolKit, Documentation]
 permalink: "/tools.html"
 ---
 
-## 1. AUTOME AI
+## 1. HALKA AI
+<w>DOCUMENTATION</w>
+<gy>BLOG</gy>
+<a href="https://github.com/sys41x4/halkaDM" target="_blank"><iky>PROJECT LINK</iky></a>
+
+## 2. AUTOME AI
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/sys41x4/AUTOME-AI" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 2. OPEN101 WATCH [NANO LIGHT]
+## 3. OPEN101 WATCH [NANO LIGHT]
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/open101watch/OPEN101_SW_NANO_LIGHT" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 3. DDoS IT DOWN
+## 4. DDoS IT DOWN
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/sys41x4/DDoS-IT-DOWN" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 4. DoS IT DOWN
+## 5. DoS IT DOWN
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/sys41x4/DoS-IT-DOWN" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 5. GIVE MY SEAT
+## 6. GIVE MY SEAT
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/Arijit-Bhowmick/Give-My-Seat" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 6. DECENTRALIZED INTERNET RELAY CHAT SYSTEM
+## 7. DECENTRALIZED INTERNET RELAY CHAT SYSTEM
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <iky>PROJECT LINK</iky>
 
 ---
 
-## 7. MP3 MUSIC PLAYER [CLI]
+## 8. MP3 MUSIC PLAYER [CLI]
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <iky>PROJECT LINK</iky>
 
 ---
 
-## 8. YOUTUBE VIDEO DOWNLOADER [CLI]
+## 9. YOUTUBE VIDEO DOWNLOADER [CLI]
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <iky>PROJECT LINK</iky>
 
 ---
 
-## 9. HOME-AI
+## 10. HOME-AI
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/Arijit-Bhowmick/HOME-AI" target="_blank"><iky>PROJECT LINK</iky></a>
 
 ---
 
-## 10. KIVY BUILDOZER SETUP
+## 11. KIVY BUILDOZER SETUP
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/sys41x4/kivy-buildozer-setup" target="_blank"><iky>PROJECT LINK</iky></a>
@@ -83,7 +88,7 @@ permalink: "/tools.html"
 
 ---
 
-## 12. SEC-WHATSAPP SPAMMER
+## 13. SEC-WHATSAPP SPAMMER
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/Arijit-Bhowmick/SEC_WHATSAPP_SPAMMER" target="_blank"><iky>PROJECT LINK</iky></a>
