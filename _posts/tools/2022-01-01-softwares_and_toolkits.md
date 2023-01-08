@@ -6,7 +6,7 @@ categories: [Tools & Documentation, Software, ToolKit, Documentation]
 permalink: "/tools.html"
 ---
 
-## 1. HALKA AI
+## 1. HALKA DM [Desktop Manager [TUI/GUI]]
 <w>DOCUMENTATION</w>
 <gy>BLOG</gy>
 <a href="https://github.com/sys41x4/halkaDM" target="_blank"><iky>PROJECT LINK</iky></a>
