@@ -1,0 +1,116 @@
+
+
+@font-face { font-family:"TopazPlus"; src: url(./topazplus500.ttf);}
+      body { color: #dddddd;
+             background-color: #1b1b1e; 
+             font-size: 16px;
+             line-height: 16px;
+             margin: 0 auto;
+             padding: 1em 0 1em 0;
+           }
+       pre { 
+				font-family:"TopazPlus", "Lucida Console", monospace, Monaco;
+				background-color: #1b1b1e;;
+				border: 2px solid #0F0;
+				border-style: dashed;
+			}
+         a { color: #98f5ff; text-decoration: none; }
+       iky { color: #74ee15; }
+         y { color: #ffa298; }
+        gy { color: #f5ff98; }
+         w { color: #ffffff; }
+        gr { color: #b5bd68; }
+         r { color: #f22e2e; }
+       pnk { color: #f4b6e5; }
+        bb { color: #5cc2ca; }
+       prp { color: #7a80a2; }
+         l { color: #c5c8c6; }
+        lg { color: #9de9a9; }
+
+
+		.content {
+
+			/* position: absolute; */
+			bottom: 10px;
+			left: 10px;
+			color : #0F0;
+			z-index : 1;
+			box-sizing: border-box;
+			vertical-align: middle;
+			text-align: center;
+
+		}
+
+a:link, a:visited, a:active, a:hover {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+.pad4{
+  padding: 4px;
+}
+
+.pad8{
+  padding: 8px;
+}
+
+canvas {display:block;}
+
+#profile-pic {
+  max-width: 45%;
+	height: auto;
+	border: 2px solid #0F0;
+	padding: 2vh;
+	border-style: dashed;
+  
+}
+
+th, td {
+	border-style: dashed;
+	border-collapse: collapse;
+	vertical-align: top;
+}
+
+.noborder{
+  border-style: none;
+	border-collapse: collapse;
+	vertical-align: top;
+}
+
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+/* Glitches */
+#infosec-usrname {
+    opacity: 0;
+    animation: cursor 1s infinite;
+}
+
+@keyframes cursor {
+
+    0% {
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
